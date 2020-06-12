@@ -13,5 +13,8 @@
     "rickymorty"
   ],
   "author": "Julia",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
