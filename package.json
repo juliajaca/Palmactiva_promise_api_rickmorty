@@ -1,0 +1,17 @@
+{
+  "name": "2020_06_12_ejercicio_node_promesas_api",
+  "version": "1.0.0",
+  "description": "Ejercicio de hacer una llamada a la api de Rick y Morty utilizando promesas",
+  "main": "src/index.js",
+  "scripts": {
+    "promesa:api": "node src/promesaApi/index.js"
+  },
+  "keywords": [
+    "api",
+    "asincronismo",
+    "promesa",
+    "rickymorty"
+  ],
+  "author": "Julia",
+  "license": "MIT"
+}
